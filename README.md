@@ -1,6 +1,6 @@
 ## JavaScript Basics – Fill in the Blanks
 
----
+
 
 1. JavaScript is a __________-side scripting language.<br>
 Ans: ✅ Cleint
