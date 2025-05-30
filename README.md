@@ -67,3 +67,9 @@ Ans: ✅ data type
    
 ## Crossword
  <img width="469" alt="Screenshot 2025-05-30 at 11 53 44 AM" src="https://github.com/user-attachments/assets/679fb278-b918-4ea4-9ed6-3c7f8533b65a" />
+
+<img width="581" alt="Screenshot 2025-05-30 at 12 14 37 PM" src="https://github.com/user-attachments/assets/24a81fd9-62a6-430b-862d-7dce16775996" />
+<img width="606" alt="Screenshot 2025-05-30 at 12 14 46 PM" src="https://github.com/user-attachments/assets/4f396da9-aaab-429e-b5b8-3921af806a55" />
+
+
+ 
